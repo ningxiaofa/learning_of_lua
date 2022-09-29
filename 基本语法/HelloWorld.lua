@@ -36,9 +36,6 @@ print("Hello World!")
 -- print("Hello World！")
 -- print("www.runoob.com")
 
-
-
 -- Note:
 -- 通常解释性脚本语言，都支持交互式编程和脚本式编程
 -- 有，php, python, lua, js等
-
