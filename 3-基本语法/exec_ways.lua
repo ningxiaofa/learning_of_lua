@@ -30,8 +30,10 @@ print("Hello World!")
 -- 脚本式编程
 -- 我们可以将 Lua 程序代码保存到一个以 lua 结尾的文件，并执行，该模式称为脚本式编程，如我们将如下代码存储在名为 hello.lua 的脚本文件中：
 
--- 我们也可以将代码修改为如下形式来执行脚本（在开头添加：#!/usr/local/bin/lua）：---- 参见index.lua
+-- 我们也可以将代码修改为如下形式来执行脚本（
+-- 在开头添加：#!/usr/local/bin/lua）：---- 参见index.lua
 -- #!/usr/local/bin/lua
+-- Note: 要写绝对路径，而且变量和别名都不好使
 
 -- print("Hello World！")
 -- print("www.runoob.com")
