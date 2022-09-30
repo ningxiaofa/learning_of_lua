@@ -24,7 +24,7 @@ print("www.runoob.com")
 --[[ print(1)
 print(1)
 print(1)
-sdfs --]] -- 其实尾部的--似乎可以省略
+sdfs --]]
 
 print(1)
 print(1)
