@@ -14,6 +14,11 @@ Mac OS X 系统上安装
     cd lua-5.3.0
     make macosx test
     make install
+
+--- 这里安装了最新版本:
+➜  funciton git:(main) ✗ lua -v
+Lua 5.4.4  Copyright (C) 1994-2022 Lua.org, PUC-Rio
+➜  funciton git:(main) ✗ 
     
 接下来我们创建一个 HelloWorld.lua 文件，代码如下:
 print("Hello World!")
