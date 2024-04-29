@@ -1,0 +1,9 @@
+function listIndex(id)
+	id = math.floor(id / 10)
+    print(id);
+	return id % 10 + 1
+end
+
+id = 8310000546712
+print(listIndex(id))
+print(id)
